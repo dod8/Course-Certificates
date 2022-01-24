@@ -2,7 +2,7 @@
 *The resulting certificates of Jupyter/Python/Numpy/GitHub earned.*
 
 Certificates: 
-1. Introduction Jupyter 
+1. [Introduction Jupyter](https://github.com/dod8/Course-Certificates/blob/main/Certifcates/CertificateOfCompletion_Introducing%20Jupyter.pdf)
 2. Learning GitHub 
 3. Learning Python 2020 
 4. NumPy Essential Training 1 Foundation

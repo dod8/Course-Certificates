@@ -1,5 +1,5 @@
 # Course-Certificates
-The resulting certificates of Jupyter/Python/Numpy/GitHub earned. 
+*The resulting certificates of Jupyter/Python/Numpy/GitHub earned.*
 
 Certificates: 
 1. Introduction Jupyter 

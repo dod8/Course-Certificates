@@ -10,3 +10,4 @@ Certificates:
 6. [Python Quick Start](https://github.com/dod8/Course-Certificates/blob/main/Certifcates/CertificateOfCompletion_Python%20Quick%20Start.pdf)
 7. [Codecademy Learn Python 2](https://github.com/dod8/Course-Certificates/blob/main/Certifcates/Codecademy%20Learn%20Python%202.JPG) 
 8. [First Day on GitHub](https://github.com/dod8/Course-Certificates/blob/main/Certifcates/First%20Day%20on%20GitHub.JPG)
+9. [First Week on GitHub](https://github.com/dod8/Course-Certificates/blob/main/Certifcates/First%20Week%20on%20GitHub.JPG)
